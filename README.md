@@ -45,5 +45,7 @@ hive> load data local inpath '/home/hadoop/rzt.txt' into table rzt
                   password: root
                   
 4.代码jdbc : src/ThriftserverDemo
+
+    ps: Demo中的username，password 与 你后台启动的username,password保持一致
   
 
